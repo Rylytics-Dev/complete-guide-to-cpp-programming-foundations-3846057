@@ -5,7 +5,7 @@
 #include <iostream>
 #include <string>
 
-enum class character_role {protagonist, antagonist, sidekick, npc};
+enum class character_role {protagonist, antagonist, sidekick, npc}; 
 
 int main(){
     
